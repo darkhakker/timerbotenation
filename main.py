@@ -1,5 +1,5 @@
 """
-Сделано на основе поста https://habr.com/ru/post/457078/ (@mumtozvalijonov)
+Сделано на основе поста https://habr.com/ru/post/457078/ (@darkhakker)
 с моими небольшими доработками
 """
 from telethon import TelegramClient, sync
